@@ -1,0 +1,26 @@
+html {
+    font-family: Arial;
+    color: black;
+    background-color: peachpuff;
+    text-align: center;
+   }
+
+h1, h2, h3 {
+    font-style: bold;
+    text-align: center;
+  }
+   
+div {
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 15px;
+}
+
+article {
+    font-size: small;
+}
+
+footnote {
+    font-size: small;
+}
